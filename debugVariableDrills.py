@@ -25,13 +25,13 @@ START HERE
 #name == "your name"
 #print(name)
 #Correct:
-
+name = "your name"
 #2)
 #Broken:
 #x = "your name
 #print(x)
 #Correct:
-
+x = "your name"
 #3)
 #Broken:
 #yay = "yay"
@@ -39,19 +39,19 @@ START HERE
 #PROBLEM: The variable is created correctly, but it won't print.
 #TIP: The variable isn't the problem
 #Correct:
-
+print(yay)
 #4)
 #Broken:
 #y == 4
 #print(y)
 #Correct:
-
+y = 4
 #5)
 #Broken:
 #m == 5
 #print(m)
 #Correct:
-
+m = 5 
 '''
 For the next section, there will be a variable create correctly. Your job will
 be to write what kind of variable it is.
@@ -71,39 +71,40 @@ START HERE
 #1)
 #x = 1.01
 #ANSWER:
-
+integer
 #2)
 #y = 2
 #ANSWER:
-
+integer 
 #3)
 #a = True
 #ANSWER:
-
+booleans
 #4)
 #b = 1
 #ANSWER:
-
+integer 
 #5)
 #c = "string"
 #ANSWER:
-
+string 
 #6)
 #d = False
 #ANSWER:
-
+booleans 
 #7)
 #e = ["a", "b", "c"]
 #ANSWER:
-
+list 
 #8)
 #f = [1, 2, 3]
 #ANSWER:
-
+list 
 #9)
 #g = "nope"
 #ANSWER:
-
+string 
 #10)
 #h = 1.24
 #ANSWER:
+iteger 
